@@ -1,0 +1,21 @@
+{
+  "name": "node-package-pattern",
+  "version": "1.0.0",
+  "description": "Demonstrates how to create a Node module and package without Babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ahad Bokhari <ahadbokhari@gmail.com> (http://ahadb.com)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.1"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
+}
